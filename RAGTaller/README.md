@@ -7,7 +7,7 @@
 
 | Requerimiento | Detalle |
 |---|---|
-| Dispositivo | iPhone 16 Pro Max o superior |
+| Dispositivo | iPhone 15 Pro o superior |
 | Sistema operativo | iOS 18+ |
 | Xcode | 16+ (macOS del instructor) |
 | Apple Intelligence | Recomendado (opcional — hay fallback) |
